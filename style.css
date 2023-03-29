@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding:0%;
+    margin: 
+}
+body {
+    background-color:aliceblue
+}
+
+
+
+
+
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border-style: solid;
+    border-width: 5px;
+    border-radius: 50px 50px;
+    border-color: var(--favorite-color); */
+}
